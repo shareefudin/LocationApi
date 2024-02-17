@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Name": "Pharmacy A",
+    "OpenningTime": "06:00:00",
+    "ClosingTime": "18:00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Pharmacy B",
+    "OpenningTime": "10:30:00",
+    "ClosingTime": "13:00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Pharmacy C",
+    "OpenningTime": "07:00:00",
+    "ClosingTime": "17:30:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Pharmacy D",
+    "OpenningTime": "10:00:00",
+    "ClosingTime": "22:00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Pharmacy E",
+    "OpenningTime": "08:30:00",
+    "ClosingTime": "19:30:00"
+  },
+  {
+    "Id": 6,
+    "Name": "Pharmacy F",
+    "OpenningTime": "07:45:00",
+    "ClosingTime": "18:45:00"
+  },
+  {
+    "Id": 7,
+    "Name": "Pharmacy G",
+    "OpenningTime": "09:00:00",
+    "ClosingTime": "21:00:00"
+  },
+  {
+    "Id": 8,
+    "Name": "Pharmacy H",
+    "OpenningTime": "08:15:00",
+    "ClosingTime": "20:15:00"
+  },
+  {
+    "Id": 9,
+    "Name": "Pharmacy I",
+    "OpenningTime": "07:30:00",
+    "ClosingTime": "19:00:00"
+  },
+  {
+    "Id": 10,
+    "Name": "Pharmacy J",
+    "OpenningTime": "09:15:00",
+    "ClosingTime": "22:15:00"
+  }
+]
